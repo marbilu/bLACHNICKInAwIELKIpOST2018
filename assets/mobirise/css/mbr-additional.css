@@ -1977,7 +1977,7 @@ body {
 }
 .cid-qIIX41djlU {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qIIX41djlU .testimonial-text {
@@ -1991,6 +1991,43 @@ body {
 }
 .cid-qIIX41djlU .mbr-author-desc {
   color: #232;
+}
+.cid-qIL6zoKGzh {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
+}
+.cid-qIL6zoKGzh .card-box {
+  background-color: #b2ccd2;
+  padding: 2rem;
+}
+.cid-qIL6zoKGzh h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qIL6zoKGzh p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qIL6zoKGzh .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qIL6zoKGzh .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qIL6zoKGzh .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qIL6zoKGzh B {
+  color: #ffffff;
 }
 .cid-qIJm90hAQb {
   padding-top: 90px;
